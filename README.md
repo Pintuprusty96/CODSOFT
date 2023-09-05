@@ -49,7 +49,7 @@ This website serves as Pintu Prusty's portfolio, where he displays his skills an
 git clone<https://github.com/Pintuprusty96/CODSOFT/tree/main/portfolio>
 
 ## This is my netifly link pleas check this out
-    pintu-personal-portfolio-344.netlify.app
+    personal-portfolio-1ec746.netlify.app
 
 2. Open the `index.html` file in your preferred web browser to view the website locally.
 
